@@ -58,5 +58,5 @@ K-Means tạo 4 cụm:
 - **Cụm 3**: Lớn tuổi, thu nhập cao, nợ trung bình, ít vỡ nợ.
 
 
-## Tác giả
-Nguyễn Đức Triển
+## Liên hệ
+Nếu bạn có thắc mắc hoặc cần hỗ trợ, vui lòng liên hệ qua email: [nductrien.ai@gmail.com].
